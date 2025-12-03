@@ -96,7 +96,7 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-rho-henna.vercel.app/api/top-langs/?username=tapaseniraj&layout=compact&theme=tokyonight"
+       src="https://github-readme-stats-rho-henna.vercel.app/api/top-langs/?username=tapaseniraj&layout=compact&theme=tokyonight&cache_seconds=3600"
        alt="Top Languages"
   />
 </p>
